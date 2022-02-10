@@ -1,1 +1,3 @@
-# Election-Results-Prediction
+# Analysis and Prediction of 2021 Election Results for the Constituencies in Coimbatore
+
+In this project, the results of the 14th (2011) and 15th (2016) Legislative Assembly Election of Coimbatore is analysed and predicted the result of the 16th Legislative Assembly Election-2021 in Coimbatore. The data have been collected from official government websites and various authentic websites for 2011, 2016 and 2021 elections. The factors considered in the analysis and prediction are Party name, Age, Constituency, Assets, Liabilities, Criminal Cases etc. The Prediction is done using logistic regression,  k-nearest neighbors and Random Forest Classifier algorithms. The final result of the study would be whether the party would win or lose based on the data given for the election 2021. 
